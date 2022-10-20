@@ -1,3 +1,7 @@
+/* @author:Aneeque Khan
+Program Name:WAP to print Maximum and Minimum value of an Array . 
+Date:20-10-2022
+*/
 package Lab;
 
 import java.util.Scanner;

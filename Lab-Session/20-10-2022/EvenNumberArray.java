@@ -1,3 +1,7 @@
+/* @author:Aneeque Khan
+Program Name:WAP to take na even number as an input from the user using array and print those numbers. 
+Date:20-10-2022
+*/
 package Lab;
 import java.util.Scanner;
 

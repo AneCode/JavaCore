@@ -1,3 +1,7 @@
+/* @author:Aneeque Khan
+Program Name:WAP to tprint Second largest  number in an Array in Java. 
+Date:20-10-2022
+*/
 package Lab;
 
 import java.util.Scanner;
